@@ -1,0 +1,5 @@
+Title : le titre
+buf ou Debuf : en % avec + ou -, affecte la production
+buf ou Debuf : en % avec + ou -, affecte la vente
+Durée : le nombre de tour
+Description : la phrase a afficher 

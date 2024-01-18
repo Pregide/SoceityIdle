@@ -1,0 +1,9 @@
+Règles :
+
+1. Un tour de jeu correspond à une semaine.
+2. Vous pèrsevez vos bénéfices à la fin du mois.
+3. Vous payez vos charges au milieu du mois.
+4. Il y a 7 palier à débloquer pour finir le jeu.
+5. Vous perdez le jeu quand vous atteignez -100 000€ de capital.
+6. Vous devez gerer l'achat, la vente et l'entretien des machine de votre usine
+7. A chaque palier, votre usine possède plus de place. 

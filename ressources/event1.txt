@@ -1,0 +1,5 @@
+Title : Coupure de courant !!
+Debuf : -50
+Debuf : -25
+Durée : 3 
+Description : une pluie acide a endommagé les transformateurs qui allimantaient la ville, les techniciens on communiqué que au vus des dégats présent cela prendra trois semaines pour être de nouveau opérationel

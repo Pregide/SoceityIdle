@@ -1,0 +1,8 @@
+Menu du jeu :
+
+1. Vendre une machine  
+2. Acheter une machine 
+3. Reparer les machines 
+4. Tour suivant 
+5. Passer au palier suivant 
+6. Sauvegarder la partie et quitter 

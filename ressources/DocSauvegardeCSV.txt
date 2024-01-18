@@ -1,0 +1,12 @@
+le séparateur par défaut est la virgule, tout fichier de sauvegarde doit commencé par un 'S'.
+
+Le fichier est donc construie de la façon suivante :
+
+Pour le joueur sur la 1er ligne:
+Nom,capitale,nbMachine1,nbMachine2,nbMachine3,stock,nbTour
+
+Pour les machines sur la 2, 3 et 4eme ligne:
+Tier,PV,tauxUsure
+
+Pour l'avancement sur la 5eme ligne: 
+V1,V2,V3,V4,V5,V6,V7

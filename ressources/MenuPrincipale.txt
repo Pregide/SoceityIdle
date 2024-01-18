@@ -1,0 +1,7 @@
+Menu :
+
+1. Jouer
+2. Charger sauvegarde
+3. Règles
+4. Stats
+5. Quitter
